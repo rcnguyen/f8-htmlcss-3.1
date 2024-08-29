@@ -897,7 +897,8 @@ body {
     line-height: 1.66;
     height: 106px;
     transition: 0.5s;
-    border-bottom: 1px solid --var(--Scondery-color-gray) solid #c4c4c4;
+    border-bottom: 1px solid;
+    border-color: #c4c4c4;
 }
 
 .date {

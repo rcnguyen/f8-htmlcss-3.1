@@ -884,21 +884,18 @@ body {
     line-height: 26px;
     border-radius: 20px;
     transform: 0.5s;
-
     background-color: var(--Scondery-color-light-green);
 }
 
 .--h4 {
     margin-top: 13px;
-    /* padding-bottom: 38px; */
     color: var(--Primary-color-black-green);
     font-size: 1.8rem;
     font-weight: 600;
     line-height: 1.66;
     height: 106px;
     transition: 0.5s;
-    border-bottom: 1px solid;
-    border-color: #c4c4c4;
+    border-bottom: 1px solid #c4c4c4;
 }
 
 .date {
